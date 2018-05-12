@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5457
     wikipedia: http://en.wikipedia.org/wiki/Pierre_Beno%C3%AEt_%28novelist%29
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34469#L-Atlantide
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2010-11-28'
 gutenberg_type: Text
